@@ -1,0 +1,43 @@
+/*
+Theme Name:   shopisleChildTheme
+Description:  Write here a brief description about your child-theme
+Author:       admin
+Author URL:   Write here the author's blog or website url
+Template:     shop-isle
+Version:      1.0
+License:      GNU General Public License v2 or later
+License URI:  http://www.gnu.org/licenses/gpl-2.0.html
+Text Domain:  shopisleChildTheme
+*/
+
+/* Write here your own personal stylesheet */
+#menu-item-59 > a {
+    font-size: large;
+}
+
+#menu-item-60 > a {
+    font-size: large;
+}
+
+#menu-item-61 > a {
+    font-size: large;
+}
+
+#menu-item-62 > a {
+    font-size: large;
+}
+
+.navbar-cart-inner > a > .icon-basket {
+	size: larger;
+}
+
+.has-medium-font-size {
+	padding: 2px;
+}
+
+h3 {
+	padding-top:200px;
+}
+
+
+
